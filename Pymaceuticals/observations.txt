@@ -1,0 +1,4 @@
+3 observations about the data:
+1. The most mice were used for Capomulin and for Ramicane Treatment
+2. Tumor volume shows to decrease over time for the Capomulin treatment.
+3.The linear regression model shows a positive correlation between Mouse weight and Tumor volume.
